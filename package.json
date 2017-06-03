@@ -1,0 +1,23 @@
+{
+  "name": "node-mocha-chai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2",
+    "super": "^0.2.3",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {
+    "chai": "^4.0.1",
+    "mocha": "^3.4.2",
+    "super": "^0.2.3"
+  }
+}
